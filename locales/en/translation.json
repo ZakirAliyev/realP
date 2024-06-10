@@ -1,0 +1,94 @@
+{
+ "homepage": "Home page",
+ "combimasterpage": "Combi Master",
+ "combibrainspage": "Combi Brains",
+ "salesofdetailspage": "Sales of spare parts",
+ "contactuspage":"Contact Us",
+
+"location": "Khirdalan city, Mehdi Huseynzade Street #26",
+
+"service": "service",
+"SERVICE":"SERVICE",
+
+"about_title":"ABOUT US",
+"about_head": "We are at your service with the most experienced staff and high-quality spare parts",
+"about_item_1":"About 15 years of experience",
+"about_item_2":"Professional staff",
+"about_item_3":"Guaranteed Works",
+"about_item_4":"Affordable and cheap price",
+"about_call_text":"Call if you have any questions",
+"about_call_btn":"Call now",
+
+
+"services_about":"OUR SERVICES",
+"services_head": "Our service includes several services.",
+
+"combimaster_text":"High-level repair of combis and connection and restoration of the heating system",  
+"combibrains_text":"We repair combi boards completely, safely and at an affordable price",
+"salesofdetails_text":"Sale of all types of spare parts for combi cars at high quality and affordable prices",
+"contactus_text":"If you have any problems with your combi and heating system, you can contact us quickly.",
+
+"contactus_number_head":"Contact number:",
+"contactus_number_text":"You can contact us quickly.",
+
+
+
+"footer_about":"The service goal of our website is to inform our customers about the high level of services we can provide, to quickly solve the problem when our customers encounter any problem, and to gain customer satisfaction.",
+"footer_head_1":"Direct Contact",
+"footer_head_2":"Quick Skip",
+
+
+  "home_title": "Combis Repair and Washing",
+
+
+"combimaster_head": "Professional combi master head",
+"whydowe":"WHY SHOULD YOU CHOOSE US?",
+"whydowe_head": "We want everyone to be aware of and benefit from the high-level services of our service.",
+"highquality_head": "High quality",
+"highquality_text":"We use durable, reliable and high-quality tools and spare parts during repair, installation of new heating systems, as well as other services we provide.",
+"guaranteeofworkdone_head":"Guarantee of work done",
+"guaranteeofworkdone_text":"Repair and washing of combi boilers, connection of heating systems, in short, we guarantee all the services we provide.",
+"professionalstaff_head": "Professional Staff",
+"professionalstaff_text":"The difficulties and problems you encounter are solved on the spot by colleagues of our service at a high level and quality, as well as at affordable prices.",
+"support_head":"Support",
+"support_text":"If you encounter various problems with your heating system and boiler, in other words, you can contact our service anytime. Our service staff will get back to you as soon as possible."
+,
+
+
+
+"combibrains": "Combi Brains",
+"combibrains_head": "Diagnosis, repair and restoration of various types of combi boards",
+"combibrains_text_1":"One of the few services provided by our combi service is about combi boards. In our service, it is possible to diagnose all types of combi boards. After diagnosis, it is found in which part the problem occurs. Then the problem is repaired and restored by the experienced staff of our service. ",
+"combibrains_text_2":"In short, all the work we do on your combi or combi board is done at a high level. We also give our customers a guarantee for all the work we do. If you encounter any problems with your combi or combi boards, you can contact our service as soon as possible, and our service will get back to you soon. return is made and our staff will be sent to your address as soon as possible. We solve the problems of our customers and satisfy them with all our services."
+
+
+
+,
+"salesofdetails":"Spare parts",
+"salesofdetails-dec":"You can get this type of spare part by approaching our service.",
+"salesofdetails_1":"fan",
+"salesofdetails_2":"Engine",
+"salesofdetails_3":"Mother agent",
+"salesofdetails_4":"Esenjor",
+"salesofdetails_5":"Switch",
+"salesofdetails_6":"NTC",
+"salesofdetails_7":"Turbine",
+"salesofdetails_8":"Stock",
+"salesofdetails_9":"Pressure Sensor",
+"salesofdetails_10":"Rashedelni balloon",
+
+
+"contactus": "Contact Us",
+  "contactus-text": "For comprehensive contact with us, you can use the following contact methods.",
+  "contactus-callnumber": "Call for questions. ",
+  "contactus-gmail": "For contact via Gmail.",
+  "contactus-location": "Location address of our service.",
+  "contactus-name": "Name",
+  "contactus-surname": "Surname",
+  "contactus-contactcallnumber": "Contact number",
+  "contactus-contactgmail": "Email",
+  "contactus-message": "Message",
+  "contactus-sendbtn": "Send",
+  "contactus-locationtext": "Baku, Khyrdalan"
+
+}

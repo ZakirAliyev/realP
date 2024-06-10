@@ -1,0 +1,100 @@
+{
+"homepage": "Ana sayfa",
+"combimasterpage": "Kombi Tamircisi",
+"combibrainspage": "Kombi Beyinler",
+"salesofdetailspage": "Yedek parça satışı",
+"contactuspage":"Bize Ulaşın",
+
+"location": "Hırdalan şehri, Mehdi Hüseyinzade Caddesi #26",
+
+"service": "hizmet",
+"SERVICE": "HİZMET",
+
+
+
+"about_title":"HAKKIMIZDA",
+"about_head": "En deneyimli kadro ve kaliteli yedek parça ile hizmetinizdeyiz",
+"about_item_1":"Yaklaşık 15 yıllık deneyim",
+"about_item_2":"Profesyonel personel",
+"about_item_3":"Garantili Çalışmalar",
+"about_item_4":"Uygun ve ucuz fiyat",
+"about_call_text":"Herhangi bir sorunuz varsa arayın",
+"about_call_btn":"Şimdi ara",
+
+
+"services_about":"HİZMETLERİMİZ",
+"services_head": "Hizmetimiz çeşitli hizmetleri içermektedir.",
+
+"combimaster_text":"Kombinin üst düzey onarımı ve ısıtma sisteminin bağlantısı ve restorasyonu",  
+"combibrains_text":"Kombi panolarını eksiksiz, güvenli ve uygun fiyata tamir ediyoruz",
+"salesofdetails_text":"Kombi araçlara ait her türlü yedek parçanın kaliteli ve uygun fiyatlarla satışı",
+"contactus_text":"Kombiniz ve ısıtma sisteminizle ilgili herhangi bir sorun yaşamanız durumunda bizimle hızlı bir şekilde iletişime geçebilirsiniz.",
+
+"contactus_number_head":"İletişim numarası:",
+"contactus_number_text":"Bizimle hızlı bir şekilde iletişime geçebilirsiniz.",
+
+
+
+"footer_about":"Web sitemizin hizmet amacı, müşterilerimize verebileceğimiz üst düzey hizmetler hakkında bilgi vermek, müşterilerimiz herhangi bir sorunla karşılaştığında sorunu hızlı bir şekilde çözmek ve müşteri memnuniyetini sağlamaktır.",
+"footer_head_1":"Doğrudan İletişim",
+"footer_head_2":"Hızlı Atla",
+
+
+
+"combimaster_head": "Profesyonel kombi ana kafası",
+"whydowe":"NEDEN BİZİ SEÇMELİSİNİZ?",
+"whydowe_head": "Hizmetimizin üst düzey hizmetlerinden herkesin haberdar olmasını ve faydalanmasını istiyoruz.",
+"highquality_head": "Yüksek kalite",
+"highquality_text":"Onarım, yeni ısıtma sistemlerinin kurulumu ve diğer hizmetlerimiz sırasında dayanıklı, güvenilir ve kaliteli aletler ve yedek parçalar kullanıyoruz.",
+"guaranteeofworkdone_head":"Yapılan işin garantisi",
+"guaranteeofworkdone_text":"Kombi tamiri ve yıkanması, ısıtma sistemlerinin bağlantısı kısacası verdiğimiz tüm hizmetlere garanti veriyoruz.",
+"professionalstaff_head": "Profesyonel Personel",
+"professionalstaff_text":"Karşılaştığınız zorluklar ve sorunlar, hizmet arkadaşlarımız tarafından yüksek seviye ve kalitede, üstelik uygun fiyatlarla yerinde çözümlenmektedir.",
+"support_head":"Destek",
+"support_text":"Yani ısıtma sisteminizde ve kombinizde çeşitli sorunlarla karşılaşırsanız servisimize istediğiniz zaman ulaşabilirsiniz. Servis personelimiz en kısa sürede size geri dönüş yapacaktır."
+,
+
+
+
+"combibrains": "Kombi Beyinler",
+"combibrains_head": "Çeşitli kombi panel türlerinin teşhisi, onarımı ve restorasyonu",
+"combibrains_text_1":"Kombi servisimizin sunduğu az sayıdaki hizmetlerden biri de kombi panoları ile ilgilidir. Servisimizde her türlü kombinin arıza tespitini yapmak mümkündür. Teşhis sonrasında sorunun hangi kısımdan kaynaklandığı tespit edilir. Daha sonra Sorun servisimizin deneyimli personeli tarafından onarılıp onarılmaktadır",
+"combibrains_text_2":"Kısacası kombiniz veya kombiniz üzerinde yaptığımız tüm işler üst düzeyde yapılmaktadır. Ayrıca müşterilerimize yaptığımız tüm işler için garanti de vermekteyiz. Kombiniz veya kombinizde herhangi bir sorunla karşılaşırsanız En kısa sürede servisimizle iletişime geçebilir, servisimiz size en kısa sürede geri dönüş yapıp, personelimiz en kısa sürede adresinize gönderecektir. tüm hizmetlerimiz.",
+
+
+"salesofdetails":"Yedek parçalar",
+"salesofdetails-dec":"Bu tip yedek parçayı servisimize başvurarak temin edebilirsiniz.",
+"salesofdetails_1":"hayran",
+"salesofdetails_2":"Motor",
+"salesofdetails_3":"Ana temsilci",
+"salesofdetails_4":"Esenjör",
+"salesofdetails_5":"Geçiş",
+"salesofdetails_6":"NTC",
+"salesofdetails_7":"Türbin",
+"salesofdetails_8":"Stok",
+"salesofdetails_9":"Basınç Sensörü",
+"salesofdetails_10":"Rashedelni balonu",
+
+    "home_title": "Kombi Tamiri ve Yıkama",
+
+
+
+
+
+
+
+
+    "contactus": "Bize Ulaşın",
+  "contactus-text": "Bizimle kapsamlı iletişim kurmak için aşağıdaki iletişim yöntemlerini kullanabilirsiniz.",
+  "contactus-callnumber": "Sorularınız için arayın.",
+  "contactus-gmail": "Gmail yoluyla iletişim için.",
+  "contactus-location": "Hizmetimizin konum adresi.",
+  "contactus-name": "Ad",
+  "contactus-soyadı": "Soyadı",
+  "contactus-contactcallnumber": "İletişim numarası",
+  "contactus-contactgmail": "E-posta",
+  "contactus-message": "Mesaj",
+  "contactus-sendbtn": "Gönder",
+  "contactus-locationtext": "Bakü, Khyrdalan"
+  }
+  
